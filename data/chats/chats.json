@@ -1,0 +1,29 @@
+[
+  {
+    "id": "d6c05121-b698-4d74-ba24-65dc392439d8",
+    "type": "direct",
+    "participants": [
+      "a728dd16-cdca-4b71-9ee9-83bea0eccaee",
+      "da65b9fb-a895-4a0c-a831-99ed4bfc9935"
+    ],
+    "createdAt": "2026-10-13T15:33:20.197Z"
+  },
+  {
+    "id": "f2bf304b-52ab-452d-9d80-a59895abda5c",
+    "type": "direct",
+    "participants": [
+      "a728dd16-cdca-4b71-9ee9-83bea0eccaee",
+      "df4a7f72-94e1-4c0a-8f45-91be55dba110"
+    ],
+    "createdAt": "2026-10-13T20:07:00.288Z"
+  },
+  {
+    "id": "fc1f48d5-f4f2-4212-9a85-fa03f813bf8c",
+    "type": "direct",
+    "participants": [
+      "da65b9fb-a895-4a0c-a831-99ed4bfc9935",
+      "df4a7f72-94e1-4c0a-8f45-91be55dba110"
+    ],
+    "createdAt": "2026-10-13T20:07:17.546Z"
+  }
+]

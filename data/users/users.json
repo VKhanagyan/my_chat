@@ -1,0 +1,30 @@
+[
+  {
+    "id": "df52ec74-de68-4620-b910-6d206c4bdf91",
+    "username": "haychat_demo",
+    "displayName": "HayChat Demo",
+    "passwordHash": "$2b$12$NqtxuVSWBDDIJZokHok8dexpbWWkC1I1VH379GtGhU4037Hkz5V16",
+    "createdAt": "2026-10-13T15:15:01.739Z"
+  },
+  {
+    "id": "da65b9fb-a895-4a0c-a831-99ed4bfc9935",
+    "username": "ADMIN",
+    "displayName": "ADMIN",
+    "passwordHash": "$2b$12$7aHDKw.d4b0Ce5ZfghiCrOBAmCvd70O5dVE4M154zC3ooAsO8PmJq",
+    "createdAt": "2026-10-13T15:21:35.951Z"
+  },
+  {
+    "id": "a728dd16-cdca-4b71-9ee9-83bea0eccaee",
+    "username": "DEV",
+    "displayName": "DEV",
+    "passwordHash": "$2b$12$3JJ5JRe3rS0B5pWRTMc7mO3m7djukcXK.DZHYNt2ywf7kI/7tRIi2",
+    "createdAt": "2026-10-13T15:28:57.405Z"
+  },
+  {
+    "id": "df4a7f72-94e1-4c0a-8f45-91be55dba110",
+    "username": "gadmin",
+    "displayName": "GA",
+    "passwordHash": "$2b$12$eG7lY8EHWptrNJ9Iku4hPeJx68HoI3lxcFpoIphg0oyeGfeF0PBqS",
+    "createdAt": "2026-10-13T20:06:54.127Z"
+  }
+]
